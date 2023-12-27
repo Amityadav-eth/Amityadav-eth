@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar Yadav
 - 👀 I’m interested in Data Visualization and creating Interactive dashboards.
-- 🌱 I’m currently learning Python, Power BI, MySQL, MS Excel, and Tableau.
+- 🌱 I’m currently learning Python, Machine Learning, Power BI, MySQL, MS Excel, and Tableau.
 - 💞️ I want to collaborate with a Data Analyst, Business Analyst, and Data Engineer.
 - 📫 How to reach me ... Mail yadavsumitsy1003@gmail.com, MCA22.amit.kumar.yadav@sunstone.edu.in
 
